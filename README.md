@@ -22,6 +22,9 @@ The project was created using FreeCAD. All source files are provided and can be 
 
 For customization, the knurled nuts can be printed in an accent color to add a visual highlight while keeping the rest of the lamp simple and functional.
 
+For the lamp module, you can use the official [Bambu Lab light model](https://eu.store.bambulab.com/products/led-lamp-kit-001), but it is relatively expensive.
+Equivalent alternatives can be found on platforms like [AliExpress](https://s.click.aliexpress.com/e/_c43TVm4N) or [Amazon](https://amzn.to/4baGwnv).
+
 ![alt text](images/IMG_20251229_132045.jpg)
 ![alt text](images/IMG_20251229_131619.jpg)
 ![alt text](images/IMG_20251229_131757.jpg)
