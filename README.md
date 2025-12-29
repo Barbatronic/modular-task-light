@@ -16,7 +16,7 @@ See the photos below for details on how to assemble and install the 3D-printed k
 
 ![alt text](<images/Knurling assembly 2.png>)![alt text](<images/Knurling assembly.png>)
 
-This lamp was designed live on my [Twitch channel](https://www.twitch.tv/barbatroniclive), and the full project is available here on GitHub.
+This lamp was designed live on my [Twitch channel](https://www.twitch.tv/barbatroniclive), and the full project is available here on GitHub. It can also be downloaded from [MakerWorld](https://makerworld.com/fr/models/2171696-modular-task-light#profileId-2355550).
 
 The project was created using FreeCAD. All source files are provided and can be modified, including key parameters such as the arm length, to adapt the lamp to different setups and needs.
 
